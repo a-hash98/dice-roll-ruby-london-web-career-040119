@@ -5,4 +5,9 @@
 def roll
   return rand(1..6)
 end
+
+dice = [1,2,3,4,5,6]
+#alternative code
+def roll
+  return rand(dice)
   # code goes hereend
