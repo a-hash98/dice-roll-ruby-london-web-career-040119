@@ -3,6 +3,6 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  return Math.random(1...6).floor()
+  return rand(1..6)
 end
   # code goes hereend
