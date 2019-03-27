@@ -4,5 +4,5 @@
 
 def roll
   return Math.random(1...6)
-  # code goes here
 end
+  # code goes hereend
