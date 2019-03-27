@@ -9,6 +9,6 @@
 dice = [1,2,3,4,5,6]
 #alternative code
 def roll
-  dice.sample
+  return dice.sample
 end
   # code goes hereend
